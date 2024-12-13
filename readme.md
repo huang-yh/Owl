@@ -1,5 +1,5 @@
 # Owl-1: Omni World Model for Consistent Long Video Generation
-### [Paper]()
+### [Paper](https://arxiv.org/abs/2412.09600)
 
 > Owl-1: Omni World Model for Consistent Long Video Generation
 
@@ -12,7 +12,7 @@ Owl-1 approaches consistent long video generation with an **omni world model**, 
 ![teaser](./assets/teaser.png)
 
 ## News.
-- **[2024/12/14]** Paper released on [arXiv]().
+- **[2024/12/14]** Paper released on [arXiv](https://arxiv.org/abs/2412.09600).
 - **[2024/12/14]** Demo release.
 
 ## Demo
@@ -48,4 +48,10 @@ We will release the code soon.
 
 If you find this project helpful, please consider citing the following paper:
 ```
+@article{huang2024owl1omniworldmodel,
+    title={Owl-1: Omni World Model for Consistent Long Video Generation}, 
+    author={Huang, Yuanhui and Zheng, Wenzhao and Gao, Yuan and Tao, Xin and Wan, Pengfei and Zhang, Di and Zhou, Jie and Lu, Jiwen},
+    journal={arXiv preprint arXiv:2412.09600},
+    year={2024},
+}
 ```
